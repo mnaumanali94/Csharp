@@ -428,7 +428,7 @@ namespace Tester.Tests
         {
 
             // Perform API call
-            DateTime result = null;
+            DateTime? result = null;
 
             try
             {
